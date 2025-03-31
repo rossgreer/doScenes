@@ -10,7 +10,7 @@ Researchers interested in using the dataset are encouraged to visit our doScenes
 
 If you use this dataset in your research, please cite the original paper:
 
-    Available at https://arxiv.org/abs/2412.05893
+    https://arxiv.org/abs/2412.05893
 
 **Contact**
 
