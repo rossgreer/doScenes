@@ -15,3 +15,5 @@ If you use this dataset in your research, please cite the original paper:
 **Contact**
 
 For further inquiries or to request access to additional materials, please contact us at:
+
+rossgreer@ucmerced.edu
