@@ -1,0 +1,564 @@
+Scene Number,Instruction Type,Instruction
+1,s,Turn right and move to the other lane carefully to avoid the trucks on the side of the road. Move back to other lane when the trucks clear up.
+2,s,Turn right and continue down this road. The road will change from two lanes into one lane.
+3,sd,"Go straight, but make sure to stop for the crossing bar. Continue forward and watch out for the group of people crossing the road."
+4,,Continue going straight.
+5,sd,Turn and merge onto the left lane. Follow the yellow car in front.
+6,d,"Continue straight then change lanes when the car is in the way, then turn left immediately."
+7,s,Continue straight and then turn left. Watch out for pedestrians on the road.
+8,,Continue straight and then turn left.
+9,,Continue going straight.
+10,s,Turn right and then continue going straight. Merge onto the left lane once the trucks clear up.
+11,s,Turn and split the lanes in order to avoid the trucks. Get back onto our side once the construction clears up.
+12,,Continue going straight.
+13,,Continue going on the same lane
+13,d,Follow yellow bus.
+14,,Continue going on the same lane
+14,d,Follow yellow bus.
+15,,Continue going on the same lane
+15,d,Follow yellow bus.
+16,s,Turn left and then continue going straight. Move on to the other lane when the FedEx truck is blocking our lane.
+17,sd,Continue going straight and then change lanes to take a left. Wait for people to finish crossing
+18,s,Merge on to the lane in front and then take the left turn.
+19,sd,Take a left turn and then continue going straight. Watch out for people crossing. Start moving to the left.
+20,d,Wait for the black car to pass and then go straight and take a right. Then continue going straight.
+21,d,Wait for the cars to pass and the people to cross. Then move slowly and take a right turn.
+22,s,Switch to the left lane and continue going straight. Then take a left turn.
+23,s,Quickly switch lanes to avoid the car in the road and then continue going straight in the same lane.
+24,d,Continue going straight and merge onto the upcoming lane. Watch out for people crossing.
+25,d,Wait for the person and car to cross. Then take a right turn.
+26,s,Quickly change lanes to avoid the car then get back to the left lane and continue going straight. Slow down behind the person in the motorcycle.
+27,d,Wait for the motorcycle person to pass and then take a right turn and go straight.
+28,s,Switch lanes and then go back to the orginal lane. Then wait at the stop lights. Wait for the people crossing.
+29,,Just wait for the lights.
+30,,Go straight on the lane. Then wait for a little bit before taking a left.
+31,,Follow the current lane.
+32,,Take a left turn and merge onto the new road. Then continue on the new lane.
+33,d,Continue going on the same lane. Slow down for the bust in front.
+34,s,Continue on the same lane. Move to the next lane to avoid the truck and then get back onto the previous lane.
+35,,Continue straight on the same lane.
+36,,Continue on the same lane.
+37,,
+38,d,Follow the gray car.
+38,s,Split the lane to avoid the trucks on the side of the road.
+39,,Continue straight
+41,s,Take a left turn and the continue going straight. Stop behind the white car.
+42,s,Continue going straight and move slightly right to avoid the truck on your left.
+43,s,Keep going straight and then stop at the stop light.
+44,,Keep going straight and follow the same lane.
+45,sd,Move slowly forward and stop behind the car in front of you. Stop in front of the crossing guard. Move once the crossing guard goes up.
+46,,
+47,,
+48,sd,Slow down and watch the pedestrian and the turn right and continue going straight
+49,s,Keeping going straight then at the next turn take a left
+50,s,Keep going straight and then take the first left
+51,s,Switch lanes temporarily and then go back to the left lane and wait
+52,sd,Slow down and avoid the white car. Switch lanes to avoid the car in front and then take a left turn at the end of the street
+53,,
+54,sd,Take a left turn and aviad the cars and trucks  to the left. Split the lane until the trucks clear up.
+55,,
+56,s,Continue going straight and then take the first right turn when available
+57,s,Take a right turn and then continue going straight.
+58,s,Keep going straight and then switch to the left lane and take a left.
+59,,
+60,,
+61,s,Take the left turn and merge on to the road.
+61,d,Follow the white van.
+62,s,Keep going straight and then switch to the left lane
+63,,
+64,,
+65,s,Take the right turn and then keep going straight.
+66,,
+67,sd,Switch to the left lane and then keep going straight. Stop for the pedestrian. Then continue going straight.
+68,s,Keep going straight and then take a left.
+69,,
+70,s,Keep going straight and then take a left.
+71,s,Follow the road and then take a left to avoid the construction vehicle ahead.
+72,s,Take a right turn and then continue.
+73,s,Go straight and then take a right turn.
+74,s,Take a left turn and merge onto the road and then continue going straight.
+75,,
+76,s,Take a right and then take another right.
+92,,
+93,,Take a right turn and then continue going straight.
+94,,
+95,,
+96,,
+97,,
+98,,
+99,s,Switch to the left lane and then keep going straight.
+100,s,Keep going straight and then switch to the right lane after the light.
+101,s,Turn right and then continue going left.
+102,d,"Keep going straight, but wait for the black van to merge on to the road."
+103,s,"Keep going straight, slow down for the black van to merge"
+104,,
+105,,
+106,,
+107,d,Slow down a little to allow the bus to merge
+108,sd,Wait for cars to pass and then turn right and keep going straight
+109,s,Keep going straight around the roundabout
+110,,
+120,s,Keep going straight and slow down for the bump
+121,,
+122,s,Keep going straight and wait for the other vehicles to pass before turning right
+123,s,Merge to left lane and continue on that lane
+124,,
+125,s,Stop at the next left turn
+126,s,Take a left turn and keep going straight and take the next right
+127,sd,Wait for the bar to raise and the go slowly straight.
+128,,
+129,s,Take a right turn and keep going straight
+130,d,Wait for the pedestrians to pass before going straight
+131,d,Wait for the white car to pass before turning left and merging onto the lane 
+132,s,Slow down before take a left turn
+133,s,Take a slight right to avoid the bus and then move back to the left lane.
+134,sd,Wait for the white car to pass before turning left and merging onto the leftmost lane
+135,,
+138,,
+139,,
+149,s,Take a left turn and then continue down the road
+150,,
+151,s,Take right turn and continue down the road
+152,s,Move to the right lane to avoid the bus
+154,sd,Take a left turn and merge onto the street. Shift slightly to the right to avoid the yellow car
+155,sd,Take a left turn and then take another left turn on the next left.
+157,s,Wait for the motorcycle to pass before taking a right turn
+158,d,Wait for the worker to remove the cone before continuing straight and then follow the truck in front
+159,d,Wait for the workers to pass before continue down the street and then merging onto the lane
+160,d,Wait for the blue car to pass before moving to the right lane
+161,d,Wait for the black car to pass before going down the road
+162,s,Turn left and then turn right
+163,,
+164,s,Take right turn and then go straight
+165,,
+166,,
+167,,
+168,,
+170,s,Take left turn and then merge onto the lane and stop right before the yellow truck
+171,s,Continue down the road and move a little bit to the left to avoid the parked trucks
+172,s,Stop right before the bus and then turn at the incoming left
+173,s,Turn left at the dead end
+174,s,Turn left and then continue going straight
+175,s,Go towards the dead end and then stop
+176,s,Stop at the stop sign and then turn right
+177,d,Stop at the gate and then continue once the gate opens
+178,s,Keep going straight and then take right down hill
+179,sd,Merge onto the the street after the pedestrian passes
+180,,
+181,s,Wait for the gate to open and then continue straight
+182,,
+183,,
+184,,
+185,d,Turn right and wait for the pedestrians to pass before continuing straight
+187,,
+188,,
+190,s,Go straight and then stop behind the grey car
+191,s,Turn right and then continue going down the road
+192,sd,Wait for the cars to pass and then turn left and merge onto the road
+193,,
+194,d,Stop behind the gray car at the stoplight
+195,,
+196,,
+199,,
+200,s,Move slightly to the left of the gray container and then continue driving
+202,,
+203,sd,Drive to the left and wait for the pedestrian to pass before continuing to drive
+204,,
+206,s,Slow down before turning to the left
+207,,
+208,d,Wait for the cars to merge onto the street before going straight
+209,,
+210,s,Slow down and move little to the left to avoid the other trucks and then turn left
+211,s,Turn left  and then stop for a little bit before heading down the road
+212,d,Slow down for a little bit to avoid the truck and then continue driving down the road
+213,,
+214,,
+218,,
+219,,
+220,,
+221,sd,Slow down and wait for the people to cross before turning left
+222,,
+224,,
+225,sd,Stop at the stoplight and wait for the people to cross before turning right
+226,,
+227,,
+228,,
+229,,
+230,s,Slow down and move to the left a little to avoid the construction zone 
+231,,
+232,,
+233,,
+234,s,Stop at the crosswalk and then turn right and continue going straight
+235,,
+236,,
+237,s,Move a little to the left to avoid the truck and then stop at the stoplight
+238,s,Slow down and move towards the curb on the right and then stop
+239,,
+240,s,Merge to the left lan and then continue straight
+241,,
+242,,
+243,,
+244,,
+245,,
+246,s,Merge to the left lane to avoid the stopped card and then continue straight
+247,s,Keep going straight and the move to the right lane
+248,,
+249,s,Turn to the right and then continue going straight down the lane
+250,d,Wait for the pedestrians to cross and then turn to the right and the keep going straight
+251,,
+252,,
+253,,
+254,,
+255,sd,Stop at the cross walk and then turn to the left after the gray car merges
+256,d,Take a slight right to avoid the trucks and stop behind the smaller truck
+257,,
+258,,
+259,sd,turn right and the slow down behind the bus
+260,,
+261,,
+262,sd,Turn right after the pedestrians pass
+263,,
+264,,
+268,s,Shift to the right lane
+269,s,Turn left and then continue down the road
+270,,
+271,s,Pass the stopped car and then stop
+272,s,Continue down the road and then take a left
+273,s,Shift to the right lane and then back to left lane and then back to the right lane
+274,,
+275,s,Stop at the stoplight
+276,,
+277,s,Continue down the road and then take a right
+278,,
+283,s,Take a right and then stop at the stop sign
+284,s,Take a left at the stop sign and then continue going down road
+285,,
+286,s,Take a right and then continue down the road
+287,,
+288,,
+289,,
+290,,
+291,,
+292,s,Shift to the left lane to avoid the stopped vehicles and then continue down the road
+293,s,Shift to the right lane and then continue down the road
+294,s,Stop at the intersection
+295,,
+296,s,Take a right turn
+297,d,Wait for the pedestrians to pass and then continue down the road
+298,s,Turn right and then continue down the road
+299,,
+300,s,Shift to the left lane
+301,,
+302,,
+303,,
+304,,
+305,sd,Shift to the right lane and then left the truck pass behind and then continue down the road
+306,,
+315,,
+316,,
+317,d,Shift to the right to let the blue bus pass and then take a right turn
+318,d,Shift to the right to let the yellow bus pass and then continue
+321,,
+323,,
+324,,
+328,s,Take a right turn and then take another right
+329,,
+330,s,Turn to the left and then stop at the curb
+331,s,Take a left turn and then continue down the road
+332,d,Wait for the pedestrians to pass and then continue down the road
+344,,
+345,s,Take a left turn and then continue down the road
+346,,
+347,sd,Shift to the left lane and then stop at the stoplight then continue when the lights turn green
+348,s,Turn to the right and then shift to the left lane and then take a left turn slowly
+349,s,Shift to the opposing lane to avoid the white car and then move back to the left lane
+350,s,Take a left turn
+351,s,Take a left turn at the end of the street
+352,s,Take a left turn and then continue down the road
+353,s,Stop at the stoplights
+354,,
+355,d,Wait for the cone to be removed by the worker and then continue down the road
+356,,
+357,,
+358,sd,Take a right turn after all the cars and people pass
+359,,
+360,,
+361,s,Merge on to the road and take a left turn
+362,s,Turn left at the intersection
+363,s,Turn right at the intersection and then continue down the road
+364,,
+365,s,Shift to the right to avoid the parked truck and the move back
+366,sd,Turn right after all the cars pass
+367,s,Turn to the right and then continue down the road
+368,s,Stop at the stoplights
+369,sd,Turn to the right after all the cars pass
+370,,
+371,s,Stop at the intersection
+372,sd,Take a left turn when all the cars pass
+373,,
+374,,
+375,,
+376,,
+377,s,Shift to the left lane and then take a left'
+378,,
+379,s,Take a left lane and then shift slightly to the right then back to the same lane and then continue down the road
+380,d,Stop behind the black car and then wait for the blue car to pass
+381,s,Take a right turn and then continue down the road and then take a right turn
+382,s,Take a left turn and then continue down the road
+383,s,Take a left turn and then merge onto the street
+384,s,Stop at the intersections and then take a right turn
+385,s,Take a left turn and then take another left turn
+386,s,stop at stop light and then take a left turn
+388,,
+389,,
+390,,
+391,s,Take a right turn and then continue down the road
+392,s,Shift to the right lane
+393,s,Take a right turn and then continue down the road
+394,,
+395,,
+396,,
+397,sd,Take left turn after all the cars have passed
+398,sd,Shift to the opposing lane to pass the white car and then move back to the right lane
+399,,
+400,,
+401,sd,Take a right turn after all the cars have passed and then continue down the road
+402,,
+403,,
+405,s,Shift to the right lane and then take a right
+406,,
+407,,
+408,s,Slow down behind the gray car and then shift to the right and pass the gray car then move back to the left lane
+410,,
+411,,
+412,,
+413,,
+414,s,Take a right turn and continue down the road
+415,s,Take a right turn and continue down the road
+416,,
+417,s,Shift to the opposing lane to pass the white car then move back to the left lane
+418,,
+419,s,Stop at the stop sign
+420,,
+421,s,Take a left turn at the end of the street
+422,s,Shift to the right to pass the parked black car then head to the intersection
+423,sd,Wait for the cars to pass then take a left turn
+424,,
+425,s,Take a left turn and then merge on to the lane
+426,s,Take a left turn and then continue on the road
+427,,
+428,,
+429,s,Take a right turn and then continue on the road
+430,,
+431,,
+432,,
+433,,
+434,,
+435,s,Stop at the intersection then take a right then stop at the stoplight
+436,s,Take a left and then shift to the right lane and stop at the stoplight
+437,,
+438,,
+439,,
+440,,
+441,s,Stop at the stop signs then continue 
+442,,
+443,sd,Stop behind the truck and then wait for the opposing cars to pass then pass the stopped truck
+444,,
+445,,
+446,s,Turn left and then take the next left
+447,sd,Take a left after waiting for the cars to pass
+448,,
+449,s,Turn to the left at the dead end
+450,,
+451,s,Take a right turn and then continue down the road
+452,s,Stop at the stop signs then turn to the right
+453,s,Turn to the right and stop at the stop signs
+454,s,Turn to the left and the continue straight
+455,,
+456,s,Take a right turn and then continue going straight
+457,s,Stop at the stop sign
+458,s,Turn to the left and then continue straight
+459,,
+460,,
+461,,
+462,,
+463,,
+464,,
+465,,
+467,,
+468,,
+469,,
+470,,
+471,,
+472,,
+474,s,Shift to the right lane and then continue
+475,s,Take a right turn and then stop behind the black car
+476,s,Take a right turn and then continue
+477,,
+478,,
+479,s,Shift to the left lane and then stop
+500,s,Take a left turn at the stoplights
+501,,
+502,s,Take a right turn and then continue down the road and stop behind the black car
+504,,
+505,,
+506,,
+507,,
+508,,
+509,,
+510,s,Take a left turn at the dead end and then continue down the road
+511,,
+512,s,Take a right turn and then continue down the road
+513,s,Take a right turn and then continue down the road
+514,,
+515,s,Stop behind the gray car
+517,d,follow the gray car until the intersection and then continue going straight
+518,sd,take a left turn and then shift to the left slightly and stop behind the people unloading the car
+519,,
+520,,
+521,d,Slowdown to allow the people to cross the crosswalk
+522,s,Take the roundabout and then continue going straight
+523,,
+524,d,Shift to the right of the white car and then continue going straight
+525,s,Take a right and then continue going straight and shift to the opposing lane
+526,s,Shift to the opposing lane to avoid the cars on the right
+527,s,Go straight and then stop right before the yellow truck
+528,s,Move to the left of the yellow truck and then go back to the right lane
+529,s,Shift slightly to the opposing lane to avoid the cars parked to the right and then continue going straight
+530,s,Shift to the opposing lane to avoid the cars on the right and stop at the stop sign
+531,s,Take a right turn and then continue going straight and shift to the left lane
+532,s,Stop at the intersection and allow the other cars to pass
+533,s,Stop at the intersection and then continue going straight and take a slight left
+534,s,Move to the center of the lane and then back to the right lane to avoid the white truck
+535,s,Take a left turn and then shift slightly to the left to avoid the construction zone
+536,d,Wait for the lights to turn green and then take a right turn
+537,d,Move to the curb to allow the gray car to pass and then continue going straight
+538,s,Take a right turn at the intersection
+539,d,Wait for the pedestrians to cross and then continue going straight until the stop lights
+541,d,Stop at the stop lights and wait for the pedestrians to cross
+542,,
+543,,
+544,d,Stop at the intersection and allow the pedestrian to pass
+546,d,Wait for the light to turn green and then go
+552,s,Take a left after all the cars pass
+553,,
+554,,
+555,d,Slow Down and let the gray car overtake you
+556,sd,Take a left turn and stop behind the white car
+557,s,Shift to the right and lane and then stop at the stoplight
+558,d,Take a right turn after the cars pass and then stop behind the bus
+784,,
+786,,
+787,,
+789,,
+790,,
+791,,
+792,,
+794,,
+795,,
+796,,
+797,,
+798,,
+799,,
+800,,
+990,,
+991,sd,stop right behind the gray car and wait for the people to pass
+992,,
+994,s,take the roundabout
+995,s,take the left lane and exit the highway
+996,,
+997,,
+998,d,take the first left after merging onto the road
+999,s,change lanes to take a left turn and then take the left turn
+1000,s,Shift to the right lane
+1001,,
+1002,s,shift to the left lane and then a take a left at the stop lights
+1003,,
+1004,,
+1005,s,take a left turn at the lane split
+1006,,
+1007,s,take a left turn
+1008,,
+1009,,
+1010,,
+1011,,
+1012,,
+1013,,
+1014,,
+1015,,
+1016,,
+1017,s,stop behind the gray car
+1018,s,take the right turn and then shift onto the left lane
+1019,,
+1020,,
+1021,,
+1022,,
+1023,s,take left and merge onto the left lane
+1024,,
+1025,,
+1044,,
+1045,,
+1046,,
+1047,,
+1048,s,take a right a turn and follow the gray car
+1049,,
+1050,,
+1051,,
+1052,,
+1053,,
+1054,sd,take a left turn and wait for the car to exit the driveway
+1055,,
+1056,,
+1057,,
+1058,s,take a slight right and stay on the same lane
+1059,d,wait for the black van to move out of the current lane and then continue going straight
+1060,,
+1061,,
+1062,,
+1063,,
+1064,sd,stop right before the right turn and wait for the biker to pass and then take the right turn
+1065,sd,shift to the right lane to avoid the oncoming car and then shift back to the left lane
+1066,,
+1067,,
+1068,s,Take left turn at the stop light
+1069,s,Take a left turn at the intersection and follow the gray car
+1070,,
+1071,,
+1072,,
+1073,s,Take a left turn at the intersection
+1074,,
+1075,,
+1076,s,Take a left turn
+1077,s,Take a left turn and follow the black car
+1078,sd,Shifted to the right lane and overtake the white car and the van
+1079,,
+1080,d,Follow the black car
+1081,d,follow the black car
+1082,,
+1083,s,Take right turn at the intersection
+1084,s,Shift to the left lane
+1085,,Take left turn
+1086,,
+1087,s,Take a right turn
+1088,s,Take a right turn
+1089,s,Take a left turn and the take another left turn
+1090,,
+1091,,
+1092,,
+1093,,
+1094,sd,Take a left turn and follow the gray car
+1095,sd,Shift the right lan and overtake the van and stop ot the red light
+1096,,
+1097,s,Go to the median and wait to take a right turn
+1098,,
+1099,,
+1100,,
+1101,s,Take a right turn
+1102,,
+1104,,
+1105,s,Shift to the opposing lane to avoid the car and then move back to the left lane
+1106,,
+1107,,
+1108,,
+1109,,
+1110,sd,Take the right turn and follow the black car and then shift to the right lane

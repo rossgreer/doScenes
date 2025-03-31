@@ -1,0 +1,332 @@
+Scene Number,Instruction Type,Instruction 
+500,ds,Turn left 
+501,ds,Slow down to avoid hitting pedestrian
+502,d,Proceed with caution avoiding the pedestrian and slow down to maintain a safe distance behind the vehicle ahead
+504,d,Follow vehicle ahead and stop to maintain a safe distance
+505,d,Follow the vehicle ahead
+506,,
+507,d,"Following the vehicle ahead, proceed with caution maintaining a safe distance to avoid hitting the two pedestrians"
+508,,
+509,,
+510,s,Make a left turn
+511,,
+512,,
+513,s,Make a right turn
+514,d,Slowly move forward and wait for oncoming traffic to pass
+515,ds,Continue straight and stop at a safe distance behind the car ahead
+517,ds,Continue straight while maintaining a safe distance between the car ahead
+518,d,Turn left. Slow down to avoid the car pulling into traffic and go around when it's stopped. Stop behind the loading car
+519,,
+520,d,Slow down to let the vehicle ahead turn 
+521,d,"Slow down to let the pedestrians cross, continue straight when all pedestrians aren't an obstacle on the lane"
+522,,
+523,ds,In the roundabout take the second exit
+524,d,"Follow the vehicle ahead, and cautiously go around the vehicle that's turning left"
+525,s,Turn right
+526,,
+527,ds,"Continuing straight, slow down when approaching the truck stopped in the road"
+528,ds,Proceed with caution going around the trucks stopped on the road
+529,,
+530,,
+531,s,Make a right turn and change one lane to the left
+532,,
+533,,
+534,s,"Continue straight. Cautiously go around the truck to proceed straight, going into the oncoming lane shortly"
+535,,Continue to the intersection while going around the construction debris
+536,d,Make a right turn when the light turns green
+537,d,"Briefly turn to the right into the bike lane to let the car behind pass, and then merge back into the lane"
+538,s,Make a right turn at the intersection
+539,d,Slow down and stop to let the pedestrians cross. Proceed when they are no longer in the lane
+541,,
+542,d,Wait at the intersection and proceed right or left when it's safe to turn
+543,,
+544,d,Slow down and stop to let the pedestrian and dog cross
+545,,
+546,d,Make a right turn when the light turns green.
+552,ds,Make a left turn when there's no oncoming vehicles and go around the parked vehicle
+553,,
+554,,
+555,d,Continue straight when the light turns green
+556,d,Make a left turn after the white car turns. Stop behind the white car that's stopped and unloading pedestrians
+557,s,Change one lane to the right to turn right at the intersection
+558,d,Make a right turn when there are no vehicles on-coming
+559,,
+560,,
+561,d,Make a left turn when the light turns green
+562,s,Continue straight and slow down when approaching the stopped vehicle ahead
+563,d,Change one lane to the right
+564,ds,Make a right turn turn following the truck directly ahead
+565,d,Follow the truck ahead. Stop at a safe distance behind the truck
+566,s,Make a right turn and proceed straight
+568,,
+,,
+570,s,Make a right turn at the stop sign
+571,,
+572,,
+573,,
+574,s,"Following the road, turn left and continue until the stop sign. At the stop sign turn right"
+575,,
+576,s,Make a right turn at the light
+577,s,Making a right turn. Continue straight 
+578,d,Continue straight when the stop light turns green
+580,s,Make a left turn and continue straight
+582,s,Make a right turn at the light
+583,,
+584,ds,Make a right turn. Slow down to allow the incoming vehicle to merge into the lane.
+585,,
+586,s,Change one lane to the right to be in the right turn lane
+587,,
+588,d,"When there are no incoming vehicles into turning lane, turn right and stay in the right most lane"
+589,s,Make a right turn and continue straight
+590,ds,Change lanes one to left to be in the middle lane. Continue straight when the light turns green and the bus passes the intersection
+591,,
+592,,Make a left turn
+593,d,Make a right turn when all incoming vehicles have passed and all pedestrians have crossed the street
+594,,
+595,,
+596,ds,Turn left at the stop light when the light is a green arrow
+597,,
+598,s,Make a right turn
+599,s,In the roundabout take the first exit
+600,,
+625,d,Follow the vehicle directly ahead
+626,ds,Follow the vehicle directly ahead and enter the roundabout
+627,,
+629,,
+630,s,Continue straight once at the stop sign
+632,s,"Following the road, turn right at the corner. Shortly after turning the corner, turn right"
+633,,
+634,s,Make a left turn
+635,d,Stop and wait for the semi-truck to park
+636,s,Make a right at the stop sign
+637,,
+638,d,Wait until oncoming traffic passes and make a left turn
+639,,
+640,s,Continue straight and stay in the middle lane
+641,s,"Passing the light, change one lane to the right"
+642,d,Continue straight when the light turns green
+643,,
+644,,
+645,d,Make a full stop at the blinking light. Turn right when the pedestrian isn't an obstacle in the turning lane
+646,,
+647,,
+648,s,Continue straight and change to the right most lane
+649,,
+650,,
+651,d,Turn left when the oncoming traffic has passed
+652,,
+653,ds,Allow the pedestrians to cross the road and continue straight when the pedestrian aren't an obstacle on current lane
+654,,
+655,,
+656,,
+657,ds,Make a left turn when there's no oncoming traffic
+658,s,Make a left turn 
+659,,
+660,s,Continue straight taking a slight left around the parked semi-truck
+661,s,Make a left turn at the end of the road
+662,,
+663,s,Make a left turn at the stop sign
+664,,
+665,ds,Make a left turn and then take another left onto the main street if there's no oncoming traffic
+666,d,"Slow down to let the pedestrian cross. When the pedestrian isn't an obstacle on the road, continue straight"
+667,ds,"Continuing straight, go around the unloading truck in the street briefly going in the opposite lane"
+668,,
+669,,Turn right at the light
+670,,
+671,,
+672,,
+673,,
+674,,
+675,d,Slowly proceed with caution maintaining a safe distance between the moving pedestrian
+676,d,"Continue proceeding with caution, come to a stop before the flashing pedestrian sign and proceed when safe to do so"
+677,,
+678,,
+679,d,"When the pedestrian in the wheel chair goes out to the side, cautiously go around him and continue straight"
+681,,
+683,d,Follow the vehicle directly ahead
+684,,
+685,ds,Make a right turn when the pedestrian isn't an obstacle in the lane you're turning into
+686,,
+687,,
+688,,
+689,d,"When the light turns green, continue straight and follow the vehicle ahead"
+695,d,"Continue straight, slow down to let the car turn to avoid an accident"
+696,d,Slow and come to a stop if needed to allow the pedestrian to cross
+697,d,"Once pedestrian crosses and isn't an obstacle in the path, continue straight"
+698,,
+700,s,Make a right turn at the light
+701,,
+703,,
+704,,
+705,,
+706,,
+707,,
+708,,
+709,,
+710,,
+711,s,Change one lane to the right
+712,s,"When on the bridge, change one lane to the right"
+713,,
+714,,
+715,,
+716,ds,Make a right turn at the light
+717,,
+718,,
+719,s,Make a right turn at the light
+726,,
+727,,
+728,,
+730,,
+731,,
+733,,
+734,,
+735,,
+736,s,Make a left turn at the stop sign
+737,s,Make a right turn 
+738,s,Take the second exit in the roundabout
+739,,
+740,s,Make a right turn at the intersection
+741,,
+744,,
+746,s,Shift to the lane on the left
+747,,
+749,,
+750,d,Move the car to the right to allow the oncoming vehicle to pass
+751,,
+752,s,Go around the vehicle stopped in the road briefly going in the opposite lane
+757,,
+758,,
+759,,
+760,d,Make a right turn at the light when it turns green. Slow down for a small amount of time to allow the oncoming vehicle to turn into the road first
+761,,
+762,s,Make a right turn at the first set of lights
+763,,
+764,,
+765,,
+767,,
+768,ds,Go around the stopped vehicle on the road by going in the left lane only if it's safe to do so
+769,ds,Make a right turn at the light. Go around the stopped vehicle by going in the opposite lane only if it's safe to do so
+770,,
+771,,
+775,,
+777,,
+778,s,Make a U turn
+780,,
+781,,
+782,,
+783,s,Past the second set of lights change one lane to the right
+784,,
+786,,
+787,,
+789,,
+790,,
+791,,
+792,,
+794,,
+795,,
+796,,
+797,,
+798,,
+799,,
+800,,
+990,,
+991,d,Stop at a safe distance behind the unloading vehicle
+992,,
+994,s,Make a right turn
+995,s,Change one lane to the left
+996,,
+997,,
+998,d,Take the first left in the roundabout when it is safe to do so
+999,s,Change one lane to the left and proceed to take a left turn
+1000,,
+1001,,
+1002,s,Change one lane to the left and take a left turn at the lights
+1003,,
+1004,,
+1005,s,Take a slight left when the lane splits
+1006,,
+1007,d,Allow the oncoming vehicle to pass before taking a left turn
+1008,,
+1009,,
+1010,,
+1011,,
+1012,,
+1013,,
+1014,,
+1015,,
+1016,,
+1017,,
+1018,d,Follow the vehicle directly ahead
+1019,,
+1020,,
+1021,,
+1022,,
+1023,d,Make a left turn when they're no oncoming vehicles
+1024,,
+1025,,
+1044,,
+1045,,
+1046,,
+1047,,
+1048,d,Follow the vehicle directly ahead
+1049,,
+1050,,
+1051,,
+1052,,
+1053,,
+1054,s,Make a left turn
+1055,,
+1056,,
+1057,,
+1058,s,Take a slight right when the road splits
+1059,,
+1060,,
+1061,,
+1062,,
+1063,,
+1064,d,Allow the oncoming vehicle to pass and then make a right
+1065,d,Change one lane to the right to pass the vehicle stopped in the road and then change back one lane to the left
+1066,,
+1067,,
+1068,s,Take a left at the light
+1069,ds,Take a left and follow the vehicle ahead
+1070,,
+1071,,
+1072,,
+1073,s,Take a left at the light
+1074,,
+1075,,
+1076,d,Follow the vehicle ahead
+1077,,
+1078,s,Change one lane to the right
+1079,,
+1080,ds,Change one lane to the right and maintain a safe distance between the vehicle directly ahead
+1081,s,Shift to the right to get into the turning lane
+1082,,
+1083,s,Make a right turn at the light
+1084,ds,"Move one lane to the left, be cautious of the vehicle turning into the lane "
+1085,s,Make a left turn at the light
+1086,,
+1087,s,Make a right turn
+1088,s,Shortly after turning the corner take a right turn
+1089,s,Make a left turn and after continuing straight for a bit make another left turn
+1090,,
+1091,,
+1092,,
+1093,,
+1094,d,Make a left turn and follow the vehicle in front
+1095,s,Change one lane to the right
+1096,,
+1097,d,Slowly move foward to turn right when it's safe to do so
+1098,d,Slowly move foward to turn right when all oncoming traffic has passed
+1099,,
+1100,,
+1101,ds,Make a right turn at the light when it's safe to do so
+1102,,
+1104,,
+1105,d,Move over one lane to the right to avoid and pass the vehicle reversing
+1106,,
+1107,,
+1108,,
+1109,,
+1110,s,Make a right turn at the light and immediately change one lane to the right to be in the right most lane

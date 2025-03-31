@@ -1,0 +1,704 @@
+Scene Number,Instruction Type,Instruction
+36,s,follow the road
+38,sd,"follow the car ahead, avoid and drive around the vehicles on the side of the road"
+39,,
+41,s,turn left at the intersection and merge onto the far right lane
+42,s,"go straight, move away slightly from parked vehicles "
+43,,
+44,sd,slow down at the intersection and wait for the white truck to turn then continue
+45,,
+46,,
+47,s,continue straight at the intersection
+48,s,"at the end of the construction turn right at the intersection, merge onto the left lane"
+49,s,turn left at the intersection and continue straight 
+50,s,take the next left turn
+51,sd,drive around the parked cars on the left and continue straight
+52,sd,"slow down as you approach the white car and continue along the road driving around any parked cars , take a left at the end of the road"
+53,d,follow the white sedan ahead of you in your lane
+54,sd,turn left at the end of the intersection and drive around avoiding parked trucks on the road
+55,d,follow the gray car ahead and turn right at the same intersection as it
+56,,
+57,,
+58,,turn left at the intersection 
+59,,
+60,,wait for the prius to move forward
+61,,turn left follow the white van
+62,,merge one lane over to the left
+63,,
+64,,
+65,,take a right here and continue straight
+66,d,wait until there are no vehicles approaching from behind 
+67,sd,",merge onto the main road and stop at the cross walk and wait for pedestrian to cross"
+68,,turn left at the intersection
+69,,turn left here continue straight 
+71,s,follow the road to the left and continue left at any obstructions
+72,d,turn right at the intersection when no vehicles are approaching 
+73,s,stop at the stop sign  and turn right
+74,,turn left when no vehicle are approaching  from either side of the road
+75,,
+76,,take two immediate right turns
+92,sd,continue straight and move away from obstacles and pedestrians 
+93,,turn right and continue straight 
+94,,
+95,,
+96,d,follow the white car ahead 
+97,d,follow the white car ahead 
+98,,
+99,sd,merge onto the left lane when no vehicles are approaching from behind
+100,,
+101,d,follow the car ahead and go straight 
+102,,turn right continue straight 
+103,,
+104,,
+105,d,continue following the white car ahead
+106,,
+107,,continue straight
+108,d,turn right when no vehicles are approaching
+109,s,enter the roundabout and exit out the first turn
+110,,
+120,,
+121,s,continue straight stay on the right lane 
+122,,turn right when no vehicles are approaching
+123,sd,merge into the left only lane after passing the parked truck and take the left turn 
+124,,
+125,,turn left at the end of the road
+126,sd,turn left when no vehicles are approaching and follow the white car ahead turn right 
+127,s,go straight drive around any parked vehicles or pedestrians
+128,,
+129,,
+130,d,wait for pedestrians to cross the crosswalk and continue straight
+131,d,turn left when no vehicle is approaching 
+132,s,turn left after the speedbump
+133,s,drive around the parked bus
+134,,turn left here
+135,,
+138,,
+139,s,drive around pedestrians on the side of the road and merge into the left only lane at the intersection
+149,,turn left continue straight 
+150,,
+151,d,follow the gray car ahead and turn right
+152,s,continue straight change lanes to avoid parked buses 
+154,d,follow the road move away from approaching vehicle in the same lane 
+155,,"turn left here, continue and turn into the left turn lane"
+157,d,turn right when no vehicle is approaching 
+158,sd,wait until worker moves away obstructing cone and follow the bus ahead
+159,d,wait for all pedestrians to cross the road then continue 
+160,sd,drive around parked traffic in the left lane however only change lanes when there are no vehicles approaching from the other side of the road
+161,d,wait until there is no incoming vehicle from the left side
+162,sd,exit the parking lot and turn right 
+163,,turn right at the intersection continue straight 
+164,,
+165,,
+166,,
+167,,
+168,,
+170,s,turn left and stop by the yellow semi truck
+171,,continue straight 
+172,s,drive around the blue parked bus and turn left at the end of the road 
+173,s,turn left at the stop sign
+174,,
+175,,
+176,s,turn right at the stop sign when there are also no incoming vehicles
+177,s,
+178,,follow the road to the right at the fork in the road
+179,,
+180,,
+181,,
+182,,
+183,,
+184,,continue driving up the hill
+185,d,take a right here and wait for the pedestrian to cross the road before continuing straight 
+187,,
+188,d,ignore pedestrians on the side of the road
+190,,
+191,,turn right continue straight 
+192,d,turn left when there are no vehicles approaching
+193,,
+194,d,follow the silver car ahead 
+195,,
+196,,
+199,,
+200,s,continue straight turn slightly right into the right lane drive around the parked truck
+202,s,stay on the right lane when ap[racing the stop sign
+203,d,"turn right here, wait for pedestrian to cross the road and continue straight"
+204,,
+206,,
+207,d,follow the white truck ahead 
+208,d,wait  until there are no approaching cars and pedestrians
+209,,follow the road
+210,s,continue straight drive around any obstructing vehicles and turn left at the end of the road
+426,,turn left here and continue
+427,s,get behind the car ahead of you
+428,,slight right at the fork and continue straight 
+429,,
+430,,
+431,,
+432,,
+433,,
+434,,
+435,s,turn right at the intersection and merge onto the far left lane immediately
+436,sd,turn left here and when no approaching cars merge onto the right lane
+437,,
+438,,
+439,,
+440,,
+441,,merge onto the right lane
+442,,
+443,d,drive around the stopped black truck ahead of you when there are no approaching cars from the other lane
+444,,
+445,,
+446,,turn left and turn left again at the intersection 
+447,,turn left here
+448,s,follow the road to the left
+449,s,turn left at the end of the road
+450,,
+451,,turn right here
+452,s,turn right at the stop sign
+453,,turn right here
+454,sd,turn left at the stop sign continue straight and drive away from the stopped truck and pedestrian
+455,,
+456,s,turn right at the roundabout
+457,,turn right here
+458,,
+459,,
+461,s,turn left at the intersection
+642,,
+463,,
+464,,
+465,,
+467,,
+468,,
+469,,
+471,,
+472,,
+474,,
+475,s,turn right at the intersection
+476,s,turn right at the intersection
+477,,
+478,,
+479,d,follow the black car in front of you 
+480,,
+499,,
+500,s,turn left at the intersection 
+501,,
+502,,
+504,,
+505,,
+506,,
+507,d,follow the road slow down for pedestrians
+508,s,exit the roundabout on the second exit 
+509,,
+510,,take a left here
+511,,
+512,s,continue right
+513,,turn right here
+514,,
+515,,
+517,,
+518,sd,turn left when there are no approaching vehicles 
+519,,
+520,,
+521,,
+522,,
+523,d,follow the car ahead through the roundabout 
+524,,
+525,,turn right here
+526,,
+527,,
+528,d,drive around the parked yellow truck when there are no approaching cars
+529,,
+530,,
+531,,
+532,,
+533,,
+534,s,drive around the parked truck and continue 
+535,,
+536,s,turn right at the intersection
+537,d,merge into the bike lane to let the car behind pass
+538,s,turn right at the intersection
+539,d,slow down and stop for pedestrians
+541,,
+542,,
+543,,
+544,d,slow down and stop for pedestrians 
+545,,
+546,,turn right here
+552,sd,turn left here wait until there are no approaching vehicles from either side of the road
+553,,
+554,,
+555,,
+556,,turn left here
+557,s,merge into the right lane
+558,,turn right here
+559,,
+560,,
+561,,turn left here
+562,,
+563,sd,merge one lane to the right when there are no approaching vehicles 
+564,d,follow the truck ahead and turn right
+565,,
+566,,
+568,,
+570,s,turn right at the stop sign
+571,,
+572,,
+573,,
+574,s,turn left at the end of the road 
+575,,turn right here and continue
+576,s,turn right at the intersection
+577,,turn right here
+578,,
+580,s,turn left at the intersection
+582,s,turn right at the intersection
+583,,
+584,s,turn right at the stop sign
+585,,
+586,s,merge into the right turn only lane
+587,,
+588,sd,turn right where there i are no approaching cars
+589,,turn right at the intersection
+590,s,merge over one lane to the left
+591,,
+592,,turn left here
+593,,
+594,,turn right here
+595,,
+596,s,turn left at the intersection
+597,,
+598,,turn right here
+599,s,exit the roundabout on the first right
+600,,
+625,,
+626,,
+627,,
+629,s,take a slight right and continue on the road
+630,,
+632,s,take a right the end of the road and another right at the intersection
+633,,
+634,,turn left here
+635,,
+636,s,take a right at the stop sign
+637,,
+638,sd,turn left at the intersection when there are no incoming vehicles
+639,,
+640,,
+641,s,merge one lane over to the right after the intersection 
+642,,
+643,,
+644,,
+645,s,merge over one lane to the right and turn right at the intersection
+646,,turn right here
+647,,
+648,,
+649,s,merge one lane over to the right and turn turn right at the intersection
+650,,
+651,d,turn left here when there are no approaching vehicles 
+652,,
+653,,
+654,,
+655,,
+656,,
+657,sd,turn left at the intersection when there are no approaching vehicles from the other side of the road
+658,sd,turn left at the intersection when there are no approaching vehicles from the other side of the road
+659,,
+660,,follow the road to the left and continue straight
+661,s,turn left at the end of the road
+662,,
+663,,turn left here
+664,,
+665,,turn left to exit the parking lot and take a left onto the main road
+666,,
+667,d,drive around the parked truck and continue straight 
+668,,
+669,,turn right here
+670,,
+671,,
+672,,
+673,,
+674,,
+675,,
+676,,
+351,,turn left at the end of the road
+352,d,follow the truck ahead
+353,,
+354,,
+355,s,continue straight once the cone is removed
+356,,
+357,,
+358,,
+359,,
+360,,
+361,,turn left merging onto the road when there is no oncoming traffic
+362,,continue straight and take the first left
+363,s,turn right at the intersection 
+364,,
+365,s,drive around the park truck 
+366,d,when there are no approaching cars turn right
+367,,turn right into the connecting road
+368,,
+369,d,when there are no approaching vehicles turn right
+370,,merge into the left lane
+371,,
+372,s,at the stop sign turn left
+373,,
+374,,
+375,,
+376,,
+377,s,turn left after the caution sign
+378,,
+379,,
+380,d,wait until there are no approaching vehicles 
+381,,turn right here and continue straight and take the next right
+382,,turn left here 
+383,s,turn left at the fork in the road and continue straight
+384,s,at the intersection turn right
+385,s,turn left at the fork
+386,,turn left at the intersection
+388,,
+389,,
+390,,
+391,,turn right at the intersection
+392,,continue after the intersection
+383,,turn right at the intersection
+394,,
+395,,
+396,,
+397,,Turn left when there are no incoming cars
+398,,
+399,,
+400,,
+401,,turn right 
+402,,
+403,,
+405,,turn right at the intersection 
+406,,
+407,,
+408,s,drive around the stopped gray car
+410,,
+411,,
+412,,
+413,,
+414,,Turn right into the connecting street and follow the white van
+415,,
+416,,
+417,s,drive around the parked white van when there are no incoming vehicles
+418,,
+419,,
+420,,keep to the left and stay in the left turn only lane
+421,,turn left 
+422,s,drive around the parked car
+423,,turn left at the intersection 
+424,,
+425,d,turn left at the fork in the road and turn left where the bus is coming from
+426,,
+427,,
+428,,continue on the road and keep right
+429,,
+430,,
+431,,
+432,,
+433,,
+434,,
+435,,turn right at the intersection and merge into the left turn lane
+436,,turn left at the intersection and merge into the right lane
+437,,
+438,,
+439,,
+440,,
+441,,
+442,,
+443,sd,when there are no approaching vehicles drive around the stopped truck
+444,,
+445,,
+446,,turn left at the intersection and left again at the next intersection
+447,,turn left into the parking lot
+448,,
+449,,continue on this road turn left at the end of the road
+450,,
+451,,turn right at the intersection 
+452,,at the stop sign run right 
+453,,
+454,,turn left at the stop sign 
+455,,
+456,,keep right at the intersection
+457,,
+458,s,turn left at the stop sign
+459,,
+461,,turn right here
+462,,
+463,,
+464,,
+465,,
+467,,
+468,,
+469,,
+471,,
+472,,
+474,s,drive around the parked car
+475,,turn right at the intersection
+476,,turn right at the intersection
+477,,
+478,,
+479,,
+480,,
+499,,
+500,,stay in the left turn lane and at the signal turn left
+501,,continue on this road
+502,,turn right at the intersection
+504,,
+505,,
+506,,
+507,,
+508,,at the roundabout take the second exit
+509,,
+510,,turn left here
+511,,
+512,,keep right and take the first right
+513,,turn right
+514,,
+515,,
+517,,
+518,,turn left at the traffic light
+519,,
+520,,
+521,,
+522,,
+524,,
+525,,turn right here
+526,,
+527,,
+680,,turn left here and drive around the parked trucks 
+677,,
+679,,
+681,,
+683,,
+684,,
+685,,turn right at the intersection
+686,,
+687,d,turn right when there are no pedestrians 
+688,,
+689,,
+695,,
+696,,
+697,,
+698,,
+700,,turn right here
+701,,
+703,,
+704,,
+705,,
+706,,
+707,,
+708,,
+709,,
+710,,
+711,,merge onto the left lane
+712,,
+713,,
+714,,
+715,,
+716,,turn right at the signal
+717,,
+980,,
+981,,
+982,,
+983,,
+984,,
+988,,at the end of the road turn right
+989,,
+990,,continue on this road
+991,,
+994,,keep right at the intersection
+995,,
+996,,
+997,,stay in the left lane while approaching the roundabout
+998,,turn left into the roundabout and take the first exit
+999,,turn left 
+1000,,continue on this road
+1001,,
+1002,,merge into the left most lane and turn left at the signal
+1003,,
+1004,,
+1005,,Keep left at the fork
+1006,,
+1007,,turn left at the intersection
+1008,,
+1009,,
+1010,,
+1011,,turn left at the intersection  and continue straight
+1012,,
+1013,,
+1014,,
+1015,,
+1016,,
+1017,,
+1018,d,follow the silver car ahead and turn right
+1019,,
+1020,,
+1021,,
+1022,,
+1023,,turn left here
+1024,,
+1025,,
+1044,d,follow the car a head into the right turn lane
+1045,,
+1046,,
+1047,,
+1048,d,follow the car ahead and turn right into the connecting road
+1049,,
+1050,,
+1051,,
+1052,,
+1053,,
+1054,,
+1055,,
+1056,,
+1057,,
+1058,,continue on this road
+1059,,
+1060,,
+1061,,
+1062,,
+1063,,
+1064,,turn right into the connecting road
+1065,,
+1066,,
+1067,,
+1068,,
+1069,,turn left at the signal
+1070,,
+1071,,
+1072,,
+1073,,turn left at the signal
+1074,,
+1075,,
+1076,,turn left at the signal
+1077,,
+1078,,
+1079,,
+1080,,merge into the right lane
+1081,,
+1082,,
+1083,d,follow the black car ahead and turn right
+1084,,merge into the left lane
+1085,,turn left at the signal and continue on this road
+1086,,
+1087,,turn right here and continue straight
+1088,d,turn right at the connecting road near the man walking their dog
+1089,,turn left at the end of the road and turn left again into the first connecting road
+1090,,
+1091,,keep right 
+1092,,
+1093,,
+1094,,turn left at the intersection
+1095,,
+1096,,
+1097,,
+1098,,
+1099,,
+1100,,
+1101,,when there are no approaching cars turn right
+1102,,
+1104,,
+1105,,
+1106,,
+1107,,
+1108,,
+1109,,
+1110,d,follow the blue prius while turning right and merge into the right turn only lane
+800,,
+803,,merge onto the road when there are no oncoming cars
+804,,
+805,,
+806,,
+808,,
+809,,
+810,,
+811,,
+812,,merge into right rurn only lane
+813,,
+815,s,turn right at the signal and merge into the left most lane
+816,,take the third roundabout exit
+817,,
+819,s,as the stop sign turn right
+820,,
+821,,
+822,,
+847,,
+848,,
+849,,
+850,,
+851,,
+852,,merge into the far left lane
+853,,turn left here
+854,,
+855,,
+856,,continue on this road
+858,,
+860,,
+861,,turn right at the intersection
+862,,stay on the far left lane and keep keft at the fork
+853,,take a right into the connecting road
+864,,
+865,,turn right into the connecting road
+866,,keep right
+868,,turn right and continue
+869,,
+870,,
+871,,
+872,,
+873,,
+875,,
+876,,
+877,,
+878,,
+880,s,turn left at the traffic signa
+882,s,turn left at the signal
+883,,
+884,,
+885,,
+886,,
+887,,
+888,,
+889,,
+890,,
+891,,turn left here
+892,,
+893,,
+894,,turn left into the intersection
+895,,
+896,,
+897,,
+898,,
+899,,
+900,,turn left at the interesction
+901,,
+902,,
+903,,
+904,,
+905,,
+906,,
+907,s,at the signal turn right
+907,,
+908,,
+909,,
+910,,
+911,,
+912,,
+913,,
+914,,
+915,,turn left here and continue 
+916,,
+917,,at the intersection turn left
+919,,
+920,,
+921,s,at the stop sign turn left
+922,,
+923,,
+924,,
+925,,
+926,,
+927,,
+928,,
+929,,
+930,,
