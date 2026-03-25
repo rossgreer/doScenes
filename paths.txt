@@ -1,0 +1,2 @@
+NUSCENES_ROOT=/data/nuscenes
+DOSCENES_ANNOTATIONS=/home/mi3/Projects/doScenes/Annotations
