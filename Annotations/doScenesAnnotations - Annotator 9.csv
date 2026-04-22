@@ -1,0 +1,152 @@
+Scene Number,Instruction Type,Instruction
+77,,
+78,s,stop at the stop sign and proceed forward after making sure there are no pedestrians
+79,d,keep following the vehicle ahead of you
+80,,
+81,d,stay behind the pedestrian walk until the red car in front of you proceeds to move
+81,d,pass by the guy guided the street
+82,,
+83,d,let the pedestrian cross the road before going straight
+84,,make a left turn at the intersection
+85,d,make a left turn once the car from the left has passed
+86,,
+87,s,stop at the stopsign
+88,ds,"make a right turn, stop at the stop sign, then make a left turn"
+89,,
+90,,
+91,d,make a right turn and slightly go left to avoid hitting the byclist then go back on the right side
+111,,make a left turn and stay on the right side of the road
+112,,
+113,,
+114,,make a right turn at the intersection
+115,d,slow down to make the bus make its turn then continue going straight
+116,,go to the left lane when it appears
+117,,
+118,,make a right turn
+119,,go around the round-a-bout but continue on the straight path
+140,,
+142,s,"go on the left lane to avoid hitting the parked cars, once passing them go back to the right lane"
+143,,
+144,d,go through the intersection once the motorcycle on the right has passed
+145,,switch into the right lane before seeing the parked vehicle
+146,,
+147,,
+148,,"after passing the bus stop on the left, make a right turn at the intersection"
+265,d,"go to the right side of the road to avoid the oncoming vehicle, then go back to the left vehicle"
+266,,
+279,,
+280,d,follow the vehicle in front of you
+281,,go around the yellow car and come back to the same lane
+282,,keep going straight while keeping a distance of the car in front of you
+307,,go around the vehicle in front of you
+308,s,make a right turn after passing the bus stop on the left
+309,,
+310,d,slowly drive forward as the pedestrian passes the car.
+311,,at the intersection make a left
+312,,
+313,s,"when you see the white truck ahead of you, switch to the right lane, then go back to the original lane"
+314,d,follow the same path as the white vehicle in front of oyu
+333,,
+334,,
+335,s,make a right turn at the top light and go into the middle lane
+336,,
+337,,
+338,,
+339,,
+340,,
+341,s,go straight only once the stoplight turns green
+342,s,go on the left lane after passing by the two parked cars on the right lane
+343,ds,only go forward once all the cars in the intersection have passed and the light turns green
+481,,make a left turn and go straight
+482,s,go around the white truck in front of you
+483,,
+484,,make a right turn onto the middle lane
+485,,
+486,,
+487,s,slightly go a bit to the left to avoid hitting the construction then go back in the same lane
+488,ds,"when it is clear to do so, go around the stopped vehicle in front of you, then go back into the same lane"
+489,,
+490,,
+491,,
+492,,
+493,,
+494,,
+495,d,"slow down for the pedestrians crossing the road, then keep going straight"
+496,,
+497,,
+498,,
+547,,after passing the intersection go into the right lane
+548,,
+549,,
+550,,
+551,,make a right turn at the intersection when it is clear to do so
+601,,
+602,,go into the left lane
+603,,
+604,,
+606,,
+607,,make a left turn
+608,s,go straight when the stoplight turns green
+609,,switch into the right lane
+610,,
+611,,make a right turn at the intersection
+612,,make a left turn at the intersection
+613,,
+614,,make a left turn into the place where the black car is comign from and go straight
+615,,
+616,,
+617,,
+618,d,after the pedestrians have crossed and after the black vehicle from the left has passed the intersection make a left turn
+619,,
+620,,
+621,,
+622,,make a left turn at the intersection
+623,,
+624,,
+827,d,stop to let the pedestrian cross
+828,d,once the pedestrian has crossed go straight
+829,,
+830,,
+831,,
+833,,make a right turn at the intersection
+834,,make a right turn
+835,d,slow down to let the pedestrians across through
+836,,
+837,,
+838,,
+839,d,follow the same path as the motorcycle
+840,,
+841,,
+842,ds,stop at the stopsign. make a left turn once all cars from the right have passed
+844,,
+845,,
+846,,
+932,,
+933,,go into the left lane and follow the round-a-bout
+935,,
+936,,
+937,,
+938,d,follow the coca-cola vehicle in front of you
+939,d,follow the coca-cola vehicle in front of you
+940,d,follow the coca-cola vehicle in front of you
+941,d,follow the coca-cola vehicle in front of you
+942,d,follow the coca-cola vehicle in front of you
+943,d,follow the coca-cola vehicle in front of you
+1026,,
+1027,,
+1028,,
+1029,,
+1030,,
+1031,,
+1032,,
+1033,,make a left turn
+1034,,
+1035,,make a left turn when it appears
+1036,,make a left turn when you can
+1037,,
+1038,,
+1039,,make a right turn and go straight into the left lane
+1040,ds,stop before the peestrian walk to let the people walk through
+1041,ds,slow down to lett the pedestrians go through then continue going straight
+1042,,make a right turn at the intersection and follow the vehicle in front of you
+1043,,
