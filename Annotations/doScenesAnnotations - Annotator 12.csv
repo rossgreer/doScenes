@@ -1,0 +1,151 @@
+Scene Number,Instruction Type,Instruction
+77,,
+78,s,stop at the stop sign
+79,d,"stay in the lane, watchout for oncoming traffic"
+80,s,stop for the car stopped at the intersection
+81,d,be cautious of cars moving out of the lane and watch for instruction of cross guard
+82,d,watchout for incoming traffic
+83,d,slow down for stopping car and watchout for pedestrian crossing the road
+84,d,take the left turn and stay behind the truck
+85,d, turn left after there are no incoming cars and slow down for the stop sign
+86,,
+87,s,stop at the stop sign
+88,d,take a right turn after the truck goes and slow down for the stop sign
+89,,
+90,,
+91,s,stay cautious of bicycle rider.
+111,d,go forward following instruction and watch out for incoming traffic as you are going into the lane
+112,,
+113,,
+114,,slow down for the intersection and go right when there is no oncoming traffic
+115,d,go forward slowly as the bus merges in
+116,d,slow down for the crossing pedestrian and stop for the red ligtht
+117,,
+118,,
+119,d,yield for oncoming traffic
+140,,
+142,,
+143,s,Go into the left lane to avoid stopped cars in front of you and return to your lane after passing
+144,d,Go straight after there is no more oncoming traffic
+145,s,Go into right lane to avoid parked car and return to stop at traffic light
+146,s,Go straight and stop at the traffic light
+147,,
+148,s,Take a slight right turn avoiding the crossing pedestrian
+265,d,Go in the right lane to avoid the oncoming car and go back
+266,s,Follow the road
+279,d,Slow down for the pedestrian on the road
+280,s,Stop behind the stopped car
+281,s,Go into the right lane to avoid the parked car and then go back into the left lane after the car is passed
+282,d,Slow down for the car in front of you
+307,s,Go into the right lane to avoid the parked car and go back to stop at the stop sign
+308,"d,s",turn right avoiding the walking pedestriand and park behind the stopped car
+309,,
+310,d,Stop for the walking pedestrian
+311,d,Take a slight left turn
+312,s,Stop at the traffic light
+313,s,Stop behind the parked vehicle
+314,d,turn left and sto next to the parked car
+333,d,slow down for incoming traffic and go straight as instructed by cross guard
+334,,
+335,d,take a slight right turn following the car in front of you
+336,,
+337,"d, s",Slow down as you are approaching a red traffic light
+338,d,Go straight and watchout for the taxi merging into your lane
+339,,
+340,s,Stop at the traffic light
+341,s,Go forward once the light turns green
+342,s,Slow down as you are approaching the red traffic light
+343,"d, s",Go forward once the light turns green and there are no more cars in front of you
+481,s,Take a slight left turn and slow down as you approach the parked semi-truck
+482,d ,Go into the left lane to avoid parked semi and follow the car in front of you 
+483,s,Merge into the right lane and stop at the red light
+484,s,Stop at the traffic light
+485,"d, s ",Stop for the pedestrian getting in their car 
+486,,
+487,,
+488,"d, s ",Stop for the pedestrians getting into their car and merge into the left lane after there is no oncoming traffic
+489,s,Slow down and stop behind the stopped cars in front of you
+490,d ,Yield for the walking pedestrians
+491,,
+492,s,Turn right after the light turns green 
+493,s,Stop at the red light and go forward once the light turns green
+494,d,Stop behind the stopped cars in front of you
+495,d,Slow down for the pedestrians crossing the road and go after they get to the sidewalk 
+496,,
+497,,
+498,s,Go forward stay in your lane and stop behind cars stopped the traffic light
+547,s,Go forward and take a slight right turn 
+548,,
+549,s,Go forward and slow down as you approach the stopped car
+550,,
+551,s,Stop at the stop sign 
+601,d,Stop for the crossing pedestrians
+602,s,Stop behind the stopped cars
+603,,
+604,s,Go forward staying in your lane 
+606,s,Stop behind the car that is stopped at the red light 
+607,s,Go forward and stop behind the car stopped at the red light 
+608,s,Stay stopped at the red light and go forward once the light turns green
+609,,
+610,s,Slow down for the red light and go forward once the light turns green 
+611,d,Take a right turn at the green light
+612,s,Take a left turn at the traffic light 
+613,s,Slow down when passing the work zone
+614,d,Take a right turn and slow down as you are approaching the red light 
+615,,
+616,s,Go forward when the light turns green 
+617,s,Stop at the stop sign 
+618,d,Take a left turn after there is no oncoming traffic in the right lane
+619,s,Slow down and stop behind the stopped car at the traffic light
+620,,
+621,d,Slowly go forward being cautious of the car in front of you 
+622,s,Take a left turn at the green light 
+623,s,Slow down as you are approaching the red light 
+624,d,Stop behind the stopped car and go forward once the light turns green
+827,d,Go forward and yield for crossing pedestrians
+828,,
+829,,
+830,,
+831,,
+833,s,Take a right turn 
+834,s,Take a right turn 
+835,d,Go forward and yield for the oncoming pedestrians 
+836,s,Slow down for the speed bump
+837,,
+838,s,Slow down and stop behind the motorcycle
+839,s,Take a right turn once the light turns green 
+840,s,Go forward and slow down as you approach the bus stop full of pedestrians
+841,s,Go forward stay in your lane and slow down as you pass the pedestrian on the left
+842,d,Stop at the stop sign and take a left turn once there is no more oncoming traffic
+844,s,Go forward and stop at the traffic pole
+845,s,Go forward once the poll lifts
+846,,
+932,d,Go forward and slow down as you approach the pedestrian
+933,d,Go forward and stay in your lane
+935,s,slow down as you go over the speed bump 
+936,s,Go forward and merge into the left lane 
+937,,
+938,d,Follow the car in front of you 
+939,d,Follow the car in front of you 
+940,d,Stay behind the car in front of you and watchout for the merging motorcycle
+941,,
+942,d,Slow down and stop behind the truck after it has stopped
+943,,
+1026,,
+1027,,
+1028,,
+1029,s,Stop behind the cars that are stopped at the light
+1030,,
+1031,,
+1032,d,Go forward once the light turns green staying behind the car in front of you 
+1033,d,Take a left turn once there is no more oncoming traffic 
+1034,,
+1035,,
+1036,s,Stop at the stop sign and take a left turn 
+1037,,
+1038,,
+1039,d,Take a right turn being cautious for the crossing pedestrians
+1040,d,Yield for the crossing pedestrians
+1041,d,Slow down and yield for the crossing pedestrians
+1042,s,Take a right turn and follow the car in front of you 
+1043,d,Take a right turn slowing down for the cars stopping at the hotel 

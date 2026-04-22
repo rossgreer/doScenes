@@ -1,0 +1,74 @@
+Scene Number,Instruction Type,Instruction
+77,,
+78,s,stopped at stop sign and then move to right lane
+79,,slight right curve
+80,d,drive forward and then stop behind car
+81,d,follow cars infront and then watch for construction person
+82,,
+83,d,slow down for person crossing road
+84,,turn left
+85,d,wait for car to go by and then turn left
+86,,
+87,s,stop at stop sign and wait for cars to go by
+88,s,"turn right, stop at stop sign, and turn left"
+89,,
+90,,
+91,d,"turn right, watch for bicycle"
+111,d,go forward according to the construction person and then turn left
+112,,
+113,,
+114,d,slow down for the yellow light and watch for the car on the other lane turning left! we need to turn right
+115,d,watch for the bus pulling out of the right lane and turning left
+116,d,"slow down for person jaywalking across road, and we need to be in the left lane"
+117,,
+118,d,turn right watch for car coming from round about
+119,d,yield for cars already in round about and go to the second exit in the round about
+140,,
+142,,
+143,d,go around stopped cars in the right lane and then return
+144,d,wait for moped and then go straight
+145,d,go around stopped car in the right lane
+146,s,go straight when light turns green
+147,,
+148,d,turn left and watch for pedestrian
+265,,drive forward and go to left lane
+266,,
+279,d,slow down for person walking on the left
+280,d,"stop and wait behind car in front, wait for them to go"
+281,d,go around car on the left
+282,s,slow down for speed hump
+307,d,go around car on the left and turn left at intersection
+308,,turn right and watch for person walking
+309,,
+310,d,stop for person walking on the left and then go after clear
+311,,stop at intersection and turn left into the left lane
+312,s,stop at red light
+313,d,slow down and stop behind vehicle on the left lane
+314,d,turn slight left and watch for bus on the right side
+333,d,construction person waved us through so we can go forward
+334,,
+335,,turn right
+336,d,watch for car merging into our lane
+337,s,slow down for yellow light
+338,,
+339,,
+340,d,stop at light and watch for people walking
+341,d,watch for person crossing and then go when light green and road is clear
+342,s,slow down at red light
+343,,go when light turn green 
+481,,turn left
+482,d,go around truck on left and then follow car forward
+483,,go to the right lane
+484,s,"turn right into middle lane, slow down at red light"
+485,d,slow down let car on left come into our lane
+486,,
+487,d,stop behind cars infront
+488,d,wait for cars to clear and then pull out on the left side
+489,d,stop behind cars infront
+490,s,stop at light and let people cross
+491,s,stopped at light and people are crossing
+492,s,"stopped at light and bikes and people crossing, go when clear and light turns green"
+493,s,stop at red light and let people cross
+494,d,watch for person crossing and stop behind cars 
+495,d,slow down for people crossing
+496,s,stop at red light

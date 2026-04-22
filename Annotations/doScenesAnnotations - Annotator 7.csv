@@ -1,0 +1,150 @@
+Scene Number,Instruction Type,Instruction
+78,s,stop at the stop sign
+79,,
+80,d,stop behing the car indicating left
+81,d,go forward once the red car starts moving and keep going forward as the traffic conducor indicates to
+82,,
+83,d,slow down and stop for the man to cross the road then keep moving forward slowly 
+84,,turn left
+85,d,wait for the green car to pass then turn left
+86,,
+87,s,slow down and stop at the stop sign
+88,d,"wait for the truck to pass then turn right. at the next stop sign, turn left"
+89,,
+90,,
+91,,turn right
+111,d,turn left as long as the traffic conductor permits you to drive ahead
+112,,
+113,,
+114,d,"wait for the car to turn, then turn right"
+115,d,wait for the bus to turn then keep driving forward
+116,d,"slow down so you don't hit the person crossing the road, then go into the left turn lane"
+117,,
+118,,turn right
+119,s,take the second exit in the roundabout
+140,,
+142,s,slightly move into the right lane to avoid hitting the parked bikes
+143,s,"move into the left lane to avoid the cars, then back into the right to avoid the parked cars"
+144,d,wait for the biker to pass the move forward
+145,s,"move into the right lane to avoid the parked car, then go back into the left lane"
+146,s,drive straight when the light turns green
+147,,
+148,,take a right
+265,d,move into the right lane to avoid the car then back into the left once it has passed
+266,,
+279,,
+280,sd,"after the light turns green and the car in front moves, take a right"
+281,s,"drive into the right lane to avoid the parked yellow car, then move back into the left and keep driving straight"
+282,,
+307,s,"move slightly right to avoid the parked vehicle, then take a left at the stop sign"
+308,,take a right
+309,,
+310,d,wait for the woman to move and then drive forward
+311,,take a left at the intersection and be in the left lane
+312,s,stop at the red light
+313,s,slow down and stop behind the green truck
+314,,slowly drive through the u turn
+333,,
+334,,
+335,,take a right at the signal then be in the middle lane
+336,,
+337,,
+338,,
+339,,
+340,s,stop at the red light
+341,s,drive straight when the light turns green
+342,,drive into the left turn lane at the signal
+343,,
+481,,take a left
+482,,go around the truck by driving slightly into the left lane
+483,,drive into the right turn lane
+484,,take a right at the signal and then stay in the middle lane
+485,,
+486,,
+487,,
+488,s,go around the parked car by slightly driving into the left lane then keep going straight
+489,s,stop behind the cars at the traffic light
+490,s,slow down to stop at the traffic light
+491,,
+492,s,start moving once the traffic light turns green
+493,s,start moving once the traffic light turns green
+494,s,slow down to stop behind the cars
+495,d,slow down for the people crossing the road
+496,,
+497,,
+498,s,drive straight
+547,,drive straight at the signal then change into the right lane
+548,,
+549,,
+550,,
+551,s,stop at the stop sign then take a right
+601,,
+602,,drive into the left lane at the signal
+603,,
+604,,
+606,,stop at the signal
+607,,take a left
+608,s,drive straight once the light turns green
+609,,change into the right lane
+610,,
+611,,"take a right at the signal, then be in the left lane"
+612,,take a left at the signal
+613,,
+614,,take a left
+615,,stop at the red light behind the crosswalk
+616,s,drive straight at the green light and let the white car pass 
+617,,stop at the stop sign behind the cross walk
+618,,take a left
+619,,drive into the left turn lane at the red light
+620,,
+621,s,drive straight when the light turns green
+622,,take a left at the signal
+623,,
+624,s,slow down and stop behind the cars at the red light
+827,d,slow down and stop for the pedestrian to cross the road
+828,,
+829,,
+830,,
+831,,
+833,,take a right
+834,,take a right
+835,d,"slow down and stop behind the crosswalk so the pedestrians can cross the road. once they have crossed, keep driving straight"
+836,,
+837,,
+838,s,stop behind the motorcycle at the red light
+839,s,take a right once the light turns green and be in the rightmost lane
+840,,change into the left lane
+841,,
+842,,stop at the stop sign and then drive into the roundabou once the cars have passed
+844,s,slow down and stop behind the motorized gate arm
+845,s,"once the gate arm opens, drive forward"
+846,,
+932,,start driving after a few seconds
+933,,drive into the leftmost lane of the roundabout then take the second exit
+935,,
+936,,change into the left turn lane at the signal
+937,,
+938,,take a left behind the truck
+939,,take a left behind the truck
+940,,
+941,,take a right
+942,,"wait for the truck to start moving, then keep driving forward"
+943,,
+1026,,
+1027,,
+1028,,
+1029,s,slow down and stop behind the cars at the traffic light
+1030,s,drive straight at the traffic lights
+1031,,
+1032,d,start driving straight once the lights turn green and the cars in front start moving
+1033,,take a left at the intersection
+1034,,
+1035,,take a left at the fork
+1036,,take a left at the intersection
+1037,,
+1038,,
+1039,,take a right
+1040,d,slow down and stop at the crosswalk for the pedestrians to cross the road
+1041,d,slow down and stop at the crosswalk for the pedestrians to cross the road
+1042,,take a right
+1043,,take a right

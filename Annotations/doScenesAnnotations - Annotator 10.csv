@@ -1,0 +1,151 @@
+Scene Number,Instruction Type,Instruction
+77,,
+78,S,"stop at the stopsign, and change into the right lane"
+79,D,follow the vehicle in front of you
+80,,
+81,D,hang right as you approach the man on the road
+82,,
+83,D,Slow down and let the pedestrian cross
+84,D,Turn left and follow the truck in front of you
+85,S,Turn left here
+86,,
+87,,
+88,S,"Turn right, then turn left at the next stop sign"
+89,,
+90,,
+91,D,Hang left and go around the biker
+111,D,turn left where the construction is
+112,,
+113,D,Don't pass the cement truck
+114,S,Turn right at the light
+115,S,Get into the left lane at this light
+116,,
+117,S,Turn right at this intersection
+118,,
+119,S,Enter the roundabout and take the second exit
+140,,
+142,,
+143,D,Pass these parked cars on the right
+144,S,Go straight at this intersection
+145,D,Pass the parked car on the right
+146,,
+147,,
+148,S,Take the next right
+265,S,Slow down and stay in the left lane
+266,,
+279,S,Stay in this lane to turn right
+280,S,Turn right at this light
+281,D,Pass this parked car on the right
+282,,
+307,S,Turn left at the stopsign
+308,S,Take the next right and pull off to the left
+309,,
+310,D,Wait for this lady to pass then keep going
+311,S,Turn left at this intersection
+312,,
+313,D,Stop behind this truck ahead
+314,D,Take this u-turn a moment after the car in front of us does
+333,,
+334,,
+335,S,Turn right at the light into the middle lane
+336,,
+337,,
+338,D,Hang right as the pedestrian exits his car
+339,D,Hang right as the pedestrian exits her car
+340,,
+341,,
+342,S,Go into the left lane at the light in front of us
+343,,
+481,S,Turn left
+482,D,Pass the parked truck on the left and follow the car in front of us
+483,S,Merge into the right lane
+484,S,Turn right and merge into the middle lane
+485,S,"Try to merge into the middle lane, otherwise just stay in this lane"
+486,,
+487,S,Hang into the middle lane to go around this curb and merge back into this lane
+488,D,Pass the parked car/pedestrians on the right when there is space.
+489,,
+490,D,"Slowly pass the parked bus, on the left and slowly approach the intersection, allowing ample space for passengers."
+491,,
+492,S,Turn right at the light
+493,,
+494,,
+495,D,Slown down as the pedestrians cross the road
+496,,
+497,,
+498,,
+547,S,"After the light, merge into the right lane"
+548,,
+549,,
+550,S,Exit the roundabout at the second exit
+551,S,Turn right at the stopsign
+601,S,Wait here
+602,,
+603,,
+604,,
+606,,
+607,S,Turn left at the light and stay in the left lane for the next light
+608,,
+609,S,Merge into the right lane
+610,,
+611,S,Turn right at the light
+612,,
+613,,
+614,S,Take the next left
+615,,
+616,,
+617,,
+618,S,Turn left at this intersection
+619,S,Stay in the left lane here
+620,,
+621,,
+622,S,Turn left at the next light
+623,,
+624,,
+827,D,Wait for the pedestrian to cross
+828,,
+829,,
+830,,
+831,S,Keep left here
+833,S,Turn right at this intersection
+834,S,Take a harsh right
+835,D,Wait for the pedestrians to cross
+836,,
+837,,
+838,,
+839,S,Turn right at this signal into the right lane
+840,,
+841,,
+842,S,Enter the intersection in the left lane
+844,S,Approach the toll
+845,S,Continue after the toll gate has raised
+846,,
+932,D,"Wait a moment, then pass the pedestrian on the right"
+933,S,"Approach the intersection and turn right, then immediately after enter the left lane"
+935,,
+936,S,Go into the left-most lane to turn left at the light
+937,,
+938,D,Follow this coca-cola truck
+939,D,Continue to follow this truck and turn left
+940,,
+941,S,Turn right at the interesection
+942,,
+943,,
+1026,,
+1027,,
+1028,,
+1029,,
+1030,,
+1031,,
+1032,,
+1033,S,Turn left at the next intersection
+1034,S,Keep right at the intersection
+1035,,Keep left at the intersection
+1036,S,Turn left at the intersection
+1037,,
+1038,,
+1039,D,Turn right at the intersection with the parked truck
+1040,D,Wait for the pedestrians to finish crossing
+1041,D,Careful of the woman crossing the road
+1042,S,Take a harsh right at the intersection
+1043,S,Take a right at the intersection and then drive past the taxi loop
