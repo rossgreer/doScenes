@@ -39,6 +39,11 @@ except Exception:
     Quaternion = None
 
 
+HISTORY_LEN = 4
+FUTURE_LEN = 12
+MIN_SCENE_SAMPLES = HISTORY_LEN + 1 + FUTURE_LEN
+
+
 @dataclass
 class DoScenesRecord:
     scene_number: int
@@ -192,6 +197,8 @@ class DoScenesNuScenesDataset(Dataset):
             scene = self.scene_by_name.get(row.scene_name)
             if scene is None:
                 continue
+            if scene.get("nbr_samples", 0) < MIN_SCENE_SAMPLES:
+                continue
             records.append(
                 DoScenesRecord(
                     scene_number=int(row.scene_number),
@@ -249,7 +256,7 @@ class DoScenesNuScenesDataset(Dataset):
 
         timestamps_us: List[int] = []
         sample_tokens: List[str] = []
-        ego_xyz: List[List[float]] = []
+        ego_xy: List[List[float]] = []
         ego_yaw: List[float] = []
         camera_paths: Dict[str, List[str]] = {ch: [] for ch in self.camera_channels}
         lidar_paths: List[str] = []
@@ -259,7 +266,7 @@ class DoScenesNuScenesDataset(Dataset):
             timestamps_us.append(int(sample["timestamp"]))
 
             xyz, yaw = self._ego_pose_from_sample(sample)
-            ego_xyz.append([float(v) for v in xyz])
+            ego_xy.append([float(xyz[0]), float(xyz[1])])
             ego_yaw.append(float("nan") if yaw is None else float(yaw))
 
             lidar_path = self._sensor_path_if_present(sample, "LIDAR_TOP")
@@ -268,10 +275,13 @@ class DoScenesNuScenesDataset(Dataset):
             for ch in self.camera_channels:
                 camera_paths[ch].append(self._sensor_path_if_present(sample, ch) or "")
 
-        ego_xyz_tensor = torch.tensor(ego_xyz, dtype=torch.float32)
-        ego_xy_tensor = ego_xyz_tensor[:, :2]
+        ego_xy_tensor = torch.tensor(ego_xy, dtype=torch.float32)
         ego_yaw_tensor = torch.tensor(ego_yaw, dtype=torch.float32)
         timestamps_tensor = torch.tensor(timestamps_us, dtype=torch.long)
+
+        h = HISTORY_LEN
+        a = HISTORY_LEN
+        f_end = HISTORY_LEN + 1 + FUTURE_LEN
 
         out: Dict[str, Any] = {
             "instruction": record.instruction,
@@ -280,13 +290,30 @@ class DoScenesNuScenesDataset(Dataset):
             "scene_name": record.scene_name,
             "scene_token": record.scene_token,
             "annotator_file": record.annotator_file,
-            "sample_tokens": sample_tokens,
-            "timestamps_us": timestamps_tensor,
-            "ego_xy": ego_xy_tensor,
-            "ego_xyz": ego_xyz_tensor,
-            "ego_yaw": ego_yaw_tensor,
-            "camera_paths": camera_paths,
-            "lidar_paths": lidar_paths,
+
+            "history_sample_tokens": sample_tokens[:h],
+            "anchor_sample_token": sample_tokens[a],
+            "future_sample_tokens": sample_tokens[a + 1:f_end],
+
+            "history_timestamps_us": timestamps_tensor[:h],
+            "anchor_timestamp_us": timestamps_tensor[a],
+            "future_timestamps_us": timestamps_tensor[a + 1:f_end],
+
+            "history_xy": ego_xy_tensor[:h],
+            "anchor_xy": ego_xy_tensor[a],
+            "future_xy": ego_xy_tensor[a + 1:f_end],
+
+            "history_yaw": ego_yaw_tensor[:h],
+            "anchor_yaw": ego_yaw_tensor[a],
+            "future_yaw": ego_yaw_tensor[a + 1:f_end],
+
+            "history_camera_paths": {ch: paths[:h] for ch, paths in camera_paths.items()},
+            "anchor_camera_paths": {ch: paths[a] for ch, paths in camera_paths.items()},
+            "future_camera_paths": {ch: paths[a + 1:f_end] for ch, paths in camera_paths.items()},
+
+            "history_lidar_paths": lidar_paths[:h],
+            "anchor_lidar_path": lidar_paths[a],
+            "future_lidar_paths": lidar_paths[a + 1:f_end],
         }
         out.update(_decode_instruction_type(record.instruction_type))
         return out
@@ -327,7 +354,7 @@ if __name__ == "__main__":
 
     NUSCENES_ROOT, DOSCENES_ANNOTATIONS = load_paths()
 
-    nusc = NuScenes(version="v1.0-trainval", dataroot=NUSCENES_ROOT, verbose=True)
+    nusc = NuScenes(version="v1.0-test", dataroot=NUSCENES_ROOT, verbose=True)
 
     dataset = DoScenesNuScenesDataset(
         nusc=nusc,
@@ -342,9 +369,11 @@ if __name__ == "__main__":
     print("Scene:", sample["scene_name"])
     print("Instruction:", sample["instruction"])
     print("Instruction type:", sample["instruction_type"])
-    print("Trajectory shape:", tuple(sample["ego_xy"].shape))
-    print("First 5 trajectory points:", sample["ego_xy"][:5])
-    print("First CAM_FRONT path:", sample["camera_paths"]["CAM_FRONT"][0])
+    print("History xy shape:", tuple(sample["history_xy"].shape))
+    print("Anchor xy:", sample["anchor_xy"])
+    print("Future xy shape:", tuple(sample["future_xy"].shape))
+    print("History CAM_FRONT paths:", sample["history_camera_paths"]["CAM_FRONT"])
+    print("Anchor CAM_FRONT path:", sample["anchor_camera_paths"]["CAM_FRONT"])
 
     loader = DataLoader(
         dataset,

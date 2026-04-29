@@ -1,2 +1,2 @@
-NUSCENES_ROOT=/data/nuscenes
-DOSCENES_ANNOTATIONS=/home/mi3/Projects/doScenes/Annotations
+NUSCENES_ROOT=/path/to/nuscenes
+DOSCENES_ANNOTATIONS=/path/to/doScenes/Annotations
